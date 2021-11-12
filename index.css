@@ -1,0 +1,65 @@
+h1{
+    width: auto;
+    height: 50px;
+    background-color: #ffa502;
+    padding: 10px;
+    padding-left: 40px;
+    color: black;
+    position: relative;
+}
+
+body{
+    background-color:#dfe6e9;
+    font: Tahoma;
+    font-family: Tahoma;
+
+
+}
+
+h3{
+    background-color: black;
+    color: whitesmoke;
+    width: fit-content;
+    height: fit-content;
+    font-size: 13px;
+}
+
+
+
+#Image{
+    border-image: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-image: 10px;
+}
+
+div.Aboutme{
+    text-align: left;
+}
+
+#Me{
+border:"10";
+background-color: #ffeaa7;
+text-align: left;
+}
+
+#Contact{
+    border: 2px;
+    background-color:#ffeaa7;
+    font-size: 13px;
+    text-align: justify;
+    border-spacing: 10px;
+    
+}
+
+p{
+    
+    background-color:#ffeaa7 ;
+    background-size:auto;
+
+}
+
+ul{
+    line-height: 30px;
+}
